@@ -1,0 +1,13 @@
+.footerItem {
+  list-style: none;
+}
+.footerLink {
+  color: #212529;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+.footerLink:hover {
+  color: #035397;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
